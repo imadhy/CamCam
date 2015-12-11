@@ -1,0 +1,14 @@
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\obj\x86\Debug\CamCam.CameraCapture.resources
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\obj\x86\Debug\CamCam.Properties.Resources.resources
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\obj\x86\Debug\CamCam.csproj.GenerateResource.Cache
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\CamCam.exe
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\CamCam.pdb
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\Emgu.CV.dll
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\Emgu.CV.UI.dll
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\Emgu.Util.dll
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\ZedGraph.dll
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\Emgu.CV.xml
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\Emgu.CV.UI.xml
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\bin\Debug\Emgu.Util.xml
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\obj\x86\Debug\CamCam.exe
+c:\users\the walking dead\documents\visual studio 2010\Projects\CamCam\CamCam\obj\x86\Debug\CamCam.pdb
